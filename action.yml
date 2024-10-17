@@ -1,11 +1,11 @@
-name: 'The name of your action here'
+name: 'My Customer Action'
 description: 'Provide a description here'
-author: 'Your name or organization here'
+author: 'natdanai'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
-branding:
-  icon: 'heart'
-  color: 'red'
+#branding:
+#  icon: 'heart'
+#  color: 'red'
 
 # Define your inputs here.
 inputs:
